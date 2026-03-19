@@ -1,2 +1,2 @@
-Upload your own images to try and test the application
+Upload your own images to try and test the application, (UPLOAD THEM INSIDE OF THE Folder: Face Recognition)
 I have removed my images 
